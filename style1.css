@@ -1,6 +1,7 @@
 body{
+    height: 100%;
     background-image: linear-gradient(black,rgb(31, 26, 61),rgb(78, 31, 107),rgb(109, 45, 161),rgb(169, 47, 255));
-    height: 750px;
+    
 }
 .container{
     background-color: rgb(253, 247, 250);
@@ -20,7 +21,7 @@ body{
     -webkit-text-fill-color: transparent;
 }
 form{
-    padding-left: 100px;
+    padding-left: 50px;
     padding-top: 1em;
     letter-spacing: .01785714em;
     line-height: 2rem;
